@@ -1,0 +1,53 @@
+ul.navbar{
+    list-style-type:none ;
+    margin: auto;
+    padding: auto;
+    overflow: hidden;
+
+}
+ul.navbar li{
+float: left;
+    
+}
+ul.navbar li a{
+
+   
+    
+}
+
+
+
+ul.navbar li a {
+    padding: 15px 150px;
+    display:block;
+    color: #333;
+    border:  1px solid #333;
+    text-decoration: none;
+    tex
+}
+ul.navbar li a:hover{
+    border-top-right-radius: 10%;
+    border-bottom-left-radius: 10%;
+    background-color: aqua;
+}
+
+table{
+    border-collapse: collapse;
+    
+}
+.tab{
+    border: 1px solid black;
+    display: left;
+}
+tr,td{
+    border: 1px solid black;
+}
+ol{
+    
+}header{
+    background-color: blueviolet;
+}
+footer{
+    background-color: blueviolet;
+
+}
